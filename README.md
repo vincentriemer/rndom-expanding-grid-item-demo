@@ -1,4 +1,4 @@
-# RNDom Expanding Grid Item Demo
+# React Native DOM Expanding Grid Item Demo
 
 ![Demo Clip](demo.gif)
 
